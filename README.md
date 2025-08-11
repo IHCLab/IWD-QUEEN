@@ -1,2 +1,1 @@
-# IWD-QUEEN
-Chia-Hsiang Lin, et al. “Quantum-driven multihead inland waterbody detection with transformer-encoded CYGNSS delay-Doppler map data,” submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025.
+Please download "Merit_Hydro_Amazon.mat" and "demo_ddm" folder from the following link: https://drive.google.com/drive/folders/1pahY5O_5SUDhhyhhAPy9wiUua8uWLI6D?usp=sharing, and put the file in the "IWD-QUEEN demo\main\collector" folder.
