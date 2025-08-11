@@ -1,0 +1,5 @@
+{
+    "epochs": 150,
+    "batch_size": 100,
+    "train_data_path": "./collector/collect_result"
+}
